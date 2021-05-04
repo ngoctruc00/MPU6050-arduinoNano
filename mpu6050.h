@@ -65,5 +65,3 @@ int16_t get_gyroz()
 {
   return getData_mpu6050(GYRO_ZOUT_H );
 }
-
-
